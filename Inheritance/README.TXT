@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Inheritence-Example: Use ColorTester.Java to try out various experiments to understand the basics of inheritence and casting while using inheritence
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:Inheritence-Example
+PURPOSE OF PROJECT: Education
+VERSION or DATE: 4/24/19
+HOW TO START THIS PROJECT: ColorTester.Java (enter instantiantion/method calls to experiment)
+AUTHORS: GauthamJay
+USER INSTRUCTIONS: --
